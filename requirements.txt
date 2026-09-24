@@ -1,0 +1,6 @@
+streamlit==1.64.0
+pandas==2.3.3
+numpy==2.1.0
+altair==6.3.0
+duckdb==1.5.5
+pytest==8.4.2
