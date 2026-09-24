@@ -1,5 +1,7 @@
 # 跨境电商选品与履约分析平台
 
+![CI](https://github.com/kayexk/crossborder-product-radar/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.13-blue) ![Streamlit](https://img.shields.io/badge/streamlit-1.64-red)
+
 一个面向跨境电商运营和物流运营岗位的可展示分析项目。它使用确定性的演示数据，完成商品评分、毛利率分析、内容信号分析和物流履约风险分析。
 
 ## 快速运行
