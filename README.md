@@ -4,6 +4,16 @@
 
 一个面向跨境电商运营和物流运营岗位的可展示分析项目。它使用确定性的演示数据，完成商品评分、毛利率分析、内容信号分析和物流履约风险分析。
 
+**▶ [在线演示](https://kayexk-crossborder-radar.streamlit.app)** — Streamlit Cloud 托管，免费容器冷启动约 1 分钟，无需账号
+
+## 界面预览
+
+| 总览看板 | 商品雷达 |
+| --- | --- |
+| ![总览看板](assets/screenshots/01-overview.png) | ![商品雷达](assets/screenshots/02-product-radar.png) |
+| **履约分析** | **评论洞察** |
+| ![履约分析](assets/screenshots/03-fulfillment.png) | ![评论洞察](assets/screenshots/04-insights.png) |
+
 ## 快速运行
 
 ```powershell
